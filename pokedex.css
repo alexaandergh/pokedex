@@ -1,0 +1,38 @@
+
+.contenderos{
+    position: relative;
+    width: 300px;
+    height: 500px;
+}
+.texto{
+    position: absolute;
+    top: 308px;
+    left: 63px;
+    z-index: 4;
+}
+.pokebolaImg{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 190px;
+    left: 82px;
+    z-index: 3;
+}
+.pokedexImg{
+    position: absolute;
+}
+.info{
+    position: absolute;
+    border-radius: 35%;
+    width: 40px;
+    top: 380px;
+    left: 75px;
+    z-index: 3;
+}
+.pantalla{
+    position: absolute;
+    background-color: rgb(115, 117, 116);
+    z-index: 2;
+    left: 51px;
+    top: 186px;
+}
